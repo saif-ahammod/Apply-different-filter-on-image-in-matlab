@@ -25,7 +25,7 @@
 <img align="center" src="https://github.com/saif-ahammod/Apply-different-filter-on-image-in-matlab/blob/main/Filter%20Demo/p5.png">
 
 ## Problem 06: Apply the following 2 filters on an Image.
-<img align="center" src="https://github.com/saif-ahammod/Apply-different-filter-on-image-in-matlab/blob/main/Filter/f1.png">
+<img align="center" src="https://github.com/saif-ahammod/Apply-different-filter-on-image-in-matlab/blob/main/Filter/f1.png" alt="html5" width="600"/>
 
 ### Code: Problem6.m
 ### Input and output: 
