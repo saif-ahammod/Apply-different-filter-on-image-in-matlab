@@ -57,3 +57,8 @@
 ### Code: Vignetting.m
 ### Input and output: 
 <img align="center" src="https://github.com/saif-ahammod/Apply-different-filter-on-image-in-matlab/blob/main/Filter%20Demo/Vignetting.png">
+
+## Mirror.
+### Code: Mirror.m
+### Input and output: 
+<img align="center" src="https://github.com/saif-ahammod/Apply-different-filter-on-image-in-matlab/blob/main/Filter%20Demo/Mirror.png">
