@@ -38,6 +38,11 @@
 ### Input and output: 
 <img align="center" src="https://github.com/saif-ahammod/Apply-different-filter-on-image-in-matlab/blob/main/Filter%20Demo/p7.png">
 
+## Problem 08: Apply median, min and max filter
+### Code: Problem8.m
+### Input and output: 
+<img align="center" src="https://github.com/saif-ahammod/Apply-different-filter-on-image-in-matlab/blob/main/Filter%20Demo/p8.png">
+
 ## Posterize Effect.
 ### Code: Posterize.m
 ### Input and output: 
