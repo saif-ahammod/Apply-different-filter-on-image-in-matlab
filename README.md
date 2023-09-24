@@ -43,6 +43,12 @@
 ### Input and output: 
 <img align="center" src="https://github.com/saif-ahammod/Apply-different-filter-on-image-in-matlab/blob/main/Filter%20Demo/p8.png">
 
+
+## Problem 09: Find the edge of an image / high-pass filtering(Sobel Filter)
+### Code: Problem9.m
+### Input and output: 
+<img align="center" src="https://github.com/saif-ahammod/Apply-different-filter-on-image-in-matlab/blob/main/Filter%20Demo/p9.png">
+
 ## Posterize Effect.
 ### Code: Posterize.m
 ### Input and output: 
